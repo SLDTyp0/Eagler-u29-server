@@ -13,6 +13,7 @@ listener_01:
   - '&6An EaglercraftX server'
   allow_motd: true
   allow_query: true
+  allow-voice: true
   request_motd_cache:
     cache_ttl: 7200
     online_server_list_animation: false
