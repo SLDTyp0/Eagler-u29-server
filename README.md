@@ -5,6 +5,7 @@ Original Project: Lax1Dude
 <br>
 Original Server Fork: EcoliEater87
 <br>
+Update to EaglercraftX u29: SLDTyp0
 ## Setup Guide
 Welcome to the EaglercraftX server project! Here is how you can setup your very own eaglercraft server:
 <br>
