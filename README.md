@@ -6,6 +6,7 @@ Original Project: Lax1Dude
 Original Server Fork: EcoliEater87
 <br>
 Update to EaglercraftX u29: SLDTyp0
+<br>
 ## Setup Guide
 Welcome to the EaglercraftX server project! Here is how you can setup your very own eaglercraft server:
 <br>
@@ -27,3 +28,7 @@ second tab: `cd bungee && sudo java -jar bungee.jar`
 Now go to the ports area and forward (and make public) ports `25565` and `8081`
 <br>
 Your eaglercraft server is setup!
+<br>
+to disable voice chat go to bungee then plugins then EaglercraftXBungee then listners.yml and set allow_voice to false.
+<br> 
+to edit the MOTD go to bungee then plugins then EaglercraftXBungee then listners.yml and change server_motd to whatever you want.
